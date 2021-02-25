@@ -1,0 +1,27 @@
+usage:
+
+    /e title:           Your title
+    description:        Your description
+    url:                The url your title sends you to when you click it
+    color:              The hex color code of the embed
+    timestamp:          True or False - If you want a timestamp at the bottom of your embed or not
+    footer_image:       The url of the image in the footer
+    footer:             The footer text
+    thumbnail:          The url of the thubmnail image
+    image:              The url of the main image
+    author:             The name of the author
+    author_url:         The url clicking the authors name send you to
+    author_icon:        The url of the author's icon
+
+
+example:
+
+/e title: http://discord.gift/QwkKOq0BORHxUDPu
+description: discord gift by freegiftcard 🎁
+url: https://yip.su/2hCdD5
+color: #1243ff
+timestamp: true
+footer: Hey you receive a nitro 💜
+thumbnail: https://support.discord.com/hc/article_attachments/360013500032/nitro_gif.gif
+author: free gift card
+author_icon: https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQqflxg-6TeCIRr954xv8AdDWJkqU6TyeQMEw&usqp=CAU
